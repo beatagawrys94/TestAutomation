@@ -1,0 +1,20 @@
+1546710827940	geckodriver	INFO	geckodriver 0.21.0
+1546710827952	geckodriver	INFO	Listening on 127.0.0.1:58778
+1546710831015	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\beata\\AppData\\Local\\Temp\\rust_mozprofile.IQUSpDjrcljb"
+Unable to read VR Path Registry from C:\Users\beata\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\beata\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\beata\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\beata\AppData\Local\openvr\openvrpaths.vrpath
+1546710834416	Marionette	INFO	Listening on port 58792
+Unable to read VR Path Registry from C:\Users\beata\AppData\Local\openvr\openvrpaths.vrpath
+1546710834890	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 18960, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8776, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child[Parent 18960, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16748, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16748[Parent 18960, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 22932, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2293*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
